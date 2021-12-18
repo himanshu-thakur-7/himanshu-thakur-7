@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Himanshu this side 😄
 
 <!--
 **himanshu-thakur-7/himanshu-thakur-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
  -->
  <!-- Markdown -->
 
+## My Github Stats:
  
 <img width="50%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=radical"><img width="50%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=radical&layout=compact">
 
