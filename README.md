@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  -->
+ <!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
  
 <img width="50%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=merko"><img width="50%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=merko&layout=compact">
 
