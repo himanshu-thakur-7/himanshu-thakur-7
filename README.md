@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=himanshu-thakur-7&theme=merko">
+ <img src="https://activity-graph.herokuapp.com/graph?username=himanshu-thakur-7&theme=redical">
 </p> 
 
 
