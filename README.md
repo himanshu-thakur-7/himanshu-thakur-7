@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <b> My Github Stats: </b>
  
-<img width="20%" height="20%" align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=radical"><img width="50%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=radical&layout=compact">
+<img width="50%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=radical"><img width="40%" height="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=radical&layout=compact">
 
 
 
