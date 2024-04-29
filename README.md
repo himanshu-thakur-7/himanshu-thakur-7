@@ -1,6 +1,6 @@
 ![banner](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cD5t5SJGwFgkfQF5.jpg)
 
-### *"How do I take off a mask when it stops being a mask, when it's as much a part of me as I am?"*
+### *Hello , I am Himanshu 🤓. I like spending my weekends sipping coffee and typing some code. Checkout what I have been upto lately. Ps. I am always upto something 😌. When I am not building , you can find me on chess.com @Fabulous51. Cheers 🍻 *
 
 <!--
 **himanshu-thakur-7/himanshu-thakur-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [!(https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  -->
  <!-- Markdown -->
 
