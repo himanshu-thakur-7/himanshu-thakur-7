@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 <b> My Github Stats: </b>
  
-<img width="50%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=radical"><img width="40%" height="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=radical&layout=compact">
-
-<img src="https://myreadme.vercel.app/api/embed/himanshu-thakur-7?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" style="background: black" >
+<img src="https://myreadme.vercel.app/api/embed/himanshu-thakur-7?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" width="100%" >
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshu-thakur-7&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
