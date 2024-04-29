@@ -26,10 +26,7 @@ Here are some ideas to get you started:
 
 <img height="50%" width="100%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=himanshu-thakur-7&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=himanshu-thakur-7&theme=redical">
-</p> 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=himanshu-thakur-7&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
