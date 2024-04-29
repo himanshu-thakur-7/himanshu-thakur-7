@@ -1,5 +1,4 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cD5t5SJGwFgkfQF5.jpg" data-canonical-src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cD5t5SJGwFgkfQF5.jpg" width="100%" height="100%" />
-![banner](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cD5t5SJGwFgkfQF5.jpg)
 
 <i> Hello , I am Himanshu 🤓. I like spending my weekends sipping coffee and typing some code. Checkout what I have been upto lately. Ps. I am always upto something 😌. When I am not building , you can find me on chess.com @Fabulous51. Cheers 🍻 </i>
 
