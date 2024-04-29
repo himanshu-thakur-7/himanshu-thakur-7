@@ -24,8 +24,6 @@ Here are some ideas to get you started:
  
 <img width="50%" height="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu-thakur-7&show_icons=true&theme=radical"><img width="50%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-thakur-7&theme=radical&layout=compact">
 
-<img height="50%" width="100%" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=himanshu-thakur-7&theme=radical&date_format=M%20j%5B%2C%20Y%5D">
-
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
 
