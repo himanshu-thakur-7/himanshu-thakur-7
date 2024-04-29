@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/61612477/146640677-03c27f35-0500-4ecf-b37f-3338da557834.png)
+![banner](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*cD5t5SJGwFgkfQF5.jpg)
 
 ### *"How do I take off a mask when it stops being a mask, when it's as much a part of me as I am?"*
 
